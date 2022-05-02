@@ -5,11 +5,17 @@
 
 Week 1 - Becoming a power user and getting context
 - day 1: intro %TODO% - %%% we'll come back to this and fill in whatever details we need to cover up front %%%
-*   discussions: Blockchains, decentralization, Unstoppable apps, money/incentives at the protocol, coordination
-*   Redundancy, Censorship resistance, web3 cron jobs are different, trust (escrow is a good way to explain)
-*   apps: what are people building? NFT, DEFI, DAOS - disclaimer: some garbage
-*   (juan benet has a good talk about building incentives to drive behaviours, probably some good vitalik articles too)
-*   gotchas: expensive, mnemonic lost means everything lost, chain is hard to parse, apps are centralized, so much noise
+
+   discussions: Blockchains, decentralization, Unstoppable apps, money/incentives at the protocol, coordination
+   
+   Redundancy, Censorship resistance, web3 cron jobs are different, trust (escrow is a good way to explain)
+   
+   apps: what are people building? NFT, DEFI, DAOS - disclaimer: some garbage
+   
+   (juan benet has a good talk about building incentives to drive behaviours, probably some good vitalik articles too)
+   
+   gotchas: expensive, mnemonic lost means everything lost, chain is hard to parse, apps are centralized, so much noise
+   
 - day 2: wallets, private key in eth.build, learn how to keep a mnemonic safe, learn how to send eth, learn how to use etherscan 
 *   get everyone to setup a metamask and get their addresses in a tip.party and drop testnet/ETH to everyone
 - day 3: Get an ENS (talk about identity), swap to a stable coin (talk about DEXs and stables)
