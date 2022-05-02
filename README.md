@@ -1,7 +1,8 @@
 # 👩‍💻 web2 to web3 🚀 
-## a curated, free, and open-source curriculum
 
-📚 *prerequisites: You need to know how to write javascript!*
+## 🖍 a curated, free, and open-source web3 curriculum
+
+📚  *prerequisites: You need to know how to write javascript!*
 
 ---
 
@@ -95,7 +96,7 @@
    
    ideation and team forming
    
-- **day 2-4**: checkins, off hours
+- **day 2-4**: checkins, office hours
 
 - **day 5**: show off what you built!
 
