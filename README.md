@@ -88,7 +88,7 @@
 
 ---
 
-### Week 4 - 🚢  Build your own project 
+### Week 4 - 🚢  Build Your Own Project 
 
 - **day 1**: open/social call to cover:
 
