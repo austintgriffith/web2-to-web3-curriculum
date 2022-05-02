@@ -13,6 +13,8 @@
   discussions: Blockchains, decentralization, Unstoppable apps, money/incentives at the protocol, coordination
    
   Redundancy, Censorship resistance, web3 cron jobs are different, trust (escrow is a good way to explain)
+  
+  composability! - permissionless composability leads to compounding pace
    
   apps: what are people building? NFT, DEFI, DAOS - disclaimer: some garbage
       
