@@ -41,6 +41,8 @@
   IPFS and offchain storage - maybe graph? 
 
   SVG NFTs!
+
+  Mint an NFT - learn whats minting
    
 - **day 5**: DAOs, multsigs, wallet connect
 
