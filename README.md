@@ -32,9 +32,14 @@
    
 - **day 3**: Get an ENS (talk about identity), swap to a stable coin (talk about DEXs and stables)
 
+  "everything is a transaction" even when you talk to a smart contract 
+
+  good chance to talk about gas and the mempool and even a sandwich attack on our swap
+
   notice how your ENS follows you to Uniswap and you can see your stables in zapper 
    
-  where is this going? DIDs/cermaic/Lens
+  where is identity going? DIDs/cermaic/Lens
+  
    
 - **day 4**: NFT day! Buy and trade NFTS, maybe use an NFT to token gate a chat? POAPs!
 
@@ -44,8 +49,10 @@
 
   Mint an NFT - learn whats minting
    
-- **day 5**: DAOs, multsigs, wallet connect
+- **day 5**: Defi, DAOs, multsigs, wallet connect
 
+  flashloans - atomic transactions 
+ 
 ---
 
 ### Week 2 - 👩‍🚀  Scripting and Deeper Concepts
