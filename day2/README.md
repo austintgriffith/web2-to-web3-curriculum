@@ -11,7 +11,7 @@ show off the 12 word seed phrase
 
 explain that if you lose it, it's gone forever
 
-explain how it can be recovered from that
+explain how it can be recovered from the 12 words and you get a bunch of accounts 
 
 use eth.build to show the relationship between menmonics, pks, public keys, and addresses
 
