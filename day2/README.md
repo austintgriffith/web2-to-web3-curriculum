@@ -25,4 +25,7 @@ we will send some testnet eth around
 
 use etherscan to verify the sends 
 
+custodial vs non-custodial
+
+smart contract wallets
 
