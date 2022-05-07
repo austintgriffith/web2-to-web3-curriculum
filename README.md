@@ -29,6 +29,8 @@
   learn how to send eth, learn how to use etherscan 
 
   setup a metamask and drop testnet/ETH to everyone to send around
+  
+  custodial vs non-custodial - smart contract wallets 
    
 - **day 3**: Get an ENS (talk about identity), swap to a stable coin (talk about DEXs and stables)
 
