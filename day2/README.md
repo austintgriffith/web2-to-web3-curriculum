@@ -29,3 +29,5 @@ custodial vs non-custodial
 
 smart contract wallets
 
+(suggestion) touch on wallet security, keep it safe. Don't use your real wallet for testing 
+
