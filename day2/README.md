@@ -3,7 +3,18 @@
 
 plan / notes 
 
+--
+day 2: wallets, "an account is just a big number you pick"
 
+private key in eth.build, learn how to keep a mnemonic safe
+
+learn how to send eth, learn how to use etherscan
+
+setup a metamask and drop testnet/ETH to everyone to send around
+
+custodial vs non-custodial - smart contract wallets
+
+---
 
 setup a metamask 
 
