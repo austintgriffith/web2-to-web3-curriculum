@@ -13,6 +13,8 @@ explain that if you lose it, it's gone forever
 
 explain how it can be recovered from the 12 words and you get a bunch of accounts (deterministic, always the same accounts)
 
+explain difference between: 12 word seed phrase VS metamask password
+
 "Couldn't just someone bruteforce-guess my 12 words, or any other person 12 words?" => I like [this](https://www.reddit.com/r/CryptoCurrency/comments/lz2if8/comment/gpzur49/?utm_source=share&utm_medium=web2x&context=3) reddit comment, laying out the chances of this happening.
 
 use eth.build to show the relationship between menmonics, pks, public keys, and addresses
