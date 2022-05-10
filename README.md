@@ -22,7 +22,9 @@
 
   future: building coordination games for nation states - funding public goods - radical markets?
 
-- **day 2**: wallets, "an account is just a big number you pick" 
+- **day 2**: [https://youtu.be/_GjPeRLCREA](https://youtu.be/_GjPeRLCREA)
+
+  wallets, "an account is just a big number you pick" 
 
   private key in eth.build, learn how to keep a mnemonic safe
 
