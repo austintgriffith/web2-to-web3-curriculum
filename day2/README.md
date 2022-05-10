@@ -36,9 +36,13 @@ show them how to get testnet ETH - talk about how to get real ETH
 
 we will send some testnet eth around
 
-use etherscan to verify the sends 
+use etherscan 
+
+to verify the sends 
 
 custodial vs non-custodial
+
+nifty.ink 
 
 smart contract wallets
 
