@@ -21,6 +21,10 @@
   gotchas: expensive, mnemonic lost means everything lost, chain is hard to parse, apps are centralized, so much noise
 
   future: building coordination games for nation states - funding public goods - radical markets?
+  
+  async reading material list:
+  [https://www.youtube.com/watch?v=bBC-nXj3Ng4](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+  
 
 - **day 2**: [https://youtu.be/_GjPeRLCREA](https://youtu.be/_GjPeRLCREA)
 
