@@ -1,15 +1,24 @@
 plan / notes 
 
 --
-day 3: Get an ENS (talk about identity), swap to a stable coin (talk about DEXs and stables)
+day 3: interact with a few Ethereum services...
+
+What are smart contracts? (We only talked about smart contracts (wallets) a bit on day 2)
+
+Some of the most famous smart contracts are just tokens ERC20 and ERC721 you just send them around (but the smart contract is keeping track of how much you have) 
 
 "everything is a transaction" even when you talk to a smart contract
+
+Gas?
+
+Get an ENS (talk about identity), swap to a stable coin (talk about DEXs and stables)
 
 good chance to talk about gas and the mempool and even a sandwich attack on our swap
 
 notice how your ENS follows you to Uniswap and you can see your stables in zapper
 
 where is identity going? DIDs/cermaic/Lens
+(identity is about local context not some universal, top down identification system) 
 
 ---
 
@@ -23,9 +32,6 @@ DEX vs CEX
 
 What are stable coins? / Use cases / Pegging mechanisms
 
-What are smart contracts? (We only talked about smart contracts (wallets) a bit on day 2)
-
-Point to Ethereum page gives an overivew over [here](https://ethereum.org/en/get-eth/#dex).
 
 Swap some ETH to stable on Uniswap.
  - Just a smart contract that handle the prices with a "simple" formula
@@ -33,7 +39,3 @@ Swap some ETH to stable on Uniswap.
  - gas / mempools / slippage / sandwich attack
 
 It's easy to create identities (can be just an ETH address) => Sybil attack
-
-DEX is the start to more DeFi things. Mention Aave, dydx, bancor 
-
-Talk about staking
