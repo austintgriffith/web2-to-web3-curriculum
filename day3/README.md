@@ -25,9 +25,15 @@ What are stable coins? / Use cases / Pegging mechanisms
 
 What are smart contracts? (We only talked about smart contracts (wallets) a bit on day 2)
 
+Point to Ethereum page gives an overivew over [here](https://ethereum.org/en/get-eth/#dex).
+
 Swap some ETH to stable on Uniswap.
  - Just a smart contract that handle the prices with a "simple" formula
  - ENS follows you to Uniswap
  - gas / mempools / slippage / sandwich attack
 
 It's easy to create identities (can be just an ETH address) => Sybil attack
+
+DEX is the start to more DeFi things. Mention Aave, dydx, bancor 
+
+Talk about staking
