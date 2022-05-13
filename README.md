@@ -34,7 +34,9 @@
   
   custodial vs non-custodial - smart contract wallets 
    
-- **day 3**: Get an ENS (talk about identity), swap to a stable coin (talk about DEXs and stables)
+- **day 3**: [https://youtu.be/wYSMNdIRoII](https://youtu.be/wYSMNdIRoII)
+
+  Get an ENS (talk about identity), swap to a stable coin (talk about DEXs and stables)
 
   "everything is a transaction" even when you talk to a smart contract 
 
