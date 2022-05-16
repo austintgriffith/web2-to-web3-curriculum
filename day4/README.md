@@ -24,6 +24,12 @@ We can show the Loogies (SVG) & Sanford Stout (IPFS) NFT examples.
 
 What's is minting? What actually happens when sending over tokens? => Just state changes in the contract.
 
+We could talk about how any of us could deploy any NFT exactly like another one and how on-chain provenance is how the market selects NFTs.  
+
+We could tinker around with nifty.ink ? I think it's still setup so we can do token gating with collabland 
+
+We should talk about Loot and composability. 
+
 Mint a loogie or sanford stout NFT.
   - Check the TX
   - Show it on opensea
