@@ -30,7 +30,7 @@ We could tinker around with nifty.ink ? I think it's still setup so we can do to
 
 We should talk about Loot and composability. 
 
-Letting creators/artists interact directly with their audience. 
+Letting creators/artists interact directly with their audience. Artist royalties.
 
 Mint a loogie or sanford stout NFT.
   - Check the TX
