@@ -18,7 +18,9 @@ What's an NFT?
 
 Explain what's IPFS
 
-Opensea and NFTs markets
+Opensea and other NFTs markets (thanks to NFT standard) 
+
+L2s! 
 
 We can show the Loogies (SVG) & Sanford Stout (IPFS) NFT examples.
 
