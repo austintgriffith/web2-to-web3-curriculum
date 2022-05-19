@@ -74,6 +74,8 @@
   formatEther, parseEther!!
 
   running your own local hardhat node
+  
+  (we should eventually show people how to run a node full, light, client divserity)
    
 - **day 2**: sending transactions 
 
