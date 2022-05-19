@@ -1,7 +1,7 @@
 plan / notes 
 
 --
-day 4: Defi, DAOs, multsigs, wallet connect
+day 5: Defi, DAOs, multsigs, wallet connect
 
 Transactions: cancel & speed up transaction (change gas fees on metamask)
 
