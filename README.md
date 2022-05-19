@@ -48,10 +48,12 @@
 
   notice how your ENS follows you to Uniswap and you can see your stables in zapper 
    
-  where is identity going? DIDs/cermaic/Lens
+  where is identity going? DIDs/cermaic/Lens?
   
    
-- **day 4**: NFT day! Buy and trade NFTS, maybe use an NFT to token gate a chat? POAPs!
+- **day 4**: [https://youtu.be/NOdrEpnoCiM](https://youtu.be/NOdrEpnoCiM)
+
+  NFT day! Buy and trade NFTS, maybe use an NFT to token gate a chat? POAPs!
 
   IPFS and offchain storage - maybe graph? 
 
@@ -59,9 +61,11 @@
 
   Mint an NFT - learn whats minting
    
-- **day 5**: Defi, DAOs, multsigs, wallet connect
+- **day 5**: [https://youtu.be/11QTT6BK5j0](https://youtu.be/11QTT6BK5j0)
 
-  flashloans - atomic transactions 
+  stuck transaction, gas limits, multisigs, L2s, lending
+
+  Defi, DAOs, multsigs, wallet connect
  
 ---
 
