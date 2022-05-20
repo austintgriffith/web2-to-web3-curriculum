@@ -48,7 +48,7 @@ On Ethereum, gas fees are paid in ETH and denoted in gwei.
 
 ----  
   
-## Day 3 
+## to do: Day 3 
   
 ### 🥅 Goals TODO
 - [ ] 	Get an ENS name 
@@ -57,7 +57,7 @@ On Ethereum, gas fees are paid in ETH and denoted in gwei.
   
 ----  
   
-## Day 4
+## to do: Day 4
   
 ### 🥅 Goals TODO
 - [ ] Mint an NFT?
@@ -65,7 +65,7 @@ On Ethereum, gas fees are paid in ETH and denoted in gwei.
   
 ----  
   
-## Day 5
+## to do: Day 5
   
 ### 🥅 Goals TODO
 - [ ] Deposit and Borrow on Aave 
