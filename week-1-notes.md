@@ -30,7 +30,7 @@ Everything you do on ethereum is a transaction. For example,
 when you send some tokens from one account to another it will be addded to the ledger as a transaction. 
 [Etherscan](https://etherscan.io/) is a block explorer for Etherum which records all the transactions to display them in a easy way. 
 
-**Gas Fees** 
+#### Gas Fees 
 
 Every transaction on the blockchain has a cost. So when you want to send tokens you need to pay the price called **gas fee**. Gas is the measure of the unit to denote the cost for a transaction. Accordingly, gas fees are the fees that are paid to the network to process the transactions. 
 On Ethereum, gas fees are paid in ETH and denoted in gwei. 
