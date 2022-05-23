@@ -25,6 +25,9 @@
   async reading material list:
   [https://www.youtube.com/watch?v=bBC-nXj3Ng4](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
   
+  if we only had your attention for one hour, we would get straight to [tinkering with solidity](https://www.youtube.com/watch?v=MlJPjJQZtC8)
+  
+  but if we have time to explain things slowly over many episodes...
 
 - **day 2**: [https://youtu.be/_GjPeRLCREA](https://youtu.be/_GjPeRLCREA)
 
