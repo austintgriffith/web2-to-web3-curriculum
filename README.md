@@ -74,7 +74,8 @@
 
 ### Week 2 - 👩‍🚀  Scripting and Deeper Concepts
 
-- **day 1**: simple script to talk to providers, get balance - RPCs
+- **day 1**: [https://youtu.be/m2AJAcWk394](https://youtu.be/m2AJAcWk394)
+  simple script to talk to providers, get balance - RPCs
 
   providers, signers, wallets, basics of ethers.js
 
