@@ -88,7 +88,7 @@
 
    discussions about: gas prices, mempool, front-running
    
-- **day 3**: hard hat? testing? 
+- **day 3**: hard hat? testing? advanced? sign, recover, encrypt, and decrypt
 
 - **day 4**: parsing blocks to find all transactions from an account (Indexer!)
 
