@@ -84,11 +84,11 @@
   
   (we should eventually show people how to run a node full, light, client divserity)
    
-- **day 2**: sending transactions 
+- **day 2**: sending transactions and talking to contracts 
 
    discussions about: gas prices, mempool, front-running
    
-- **day 3**: interacting with contracts
+- **day 3**: hard hat? testing? 
 
 - **day 4**: parsing blocks to find all transactions from an account (Indexer!)
 
