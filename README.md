@@ -94,6 +94,8 @@
 
    leads you to graph and/or running your own geth node
    
+   (when you have your own node running you can ask it for the mempool!) 
+   
 - **day 5**: advanced: sign, recover, encrypt, and decrypt
 
 ---
