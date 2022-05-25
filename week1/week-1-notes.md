@@ -48,13 +48,47 @@ On Ethereum, gas fees are paid in ETH and denoted in gwei.
 
 ----  
   
-## to do: Day 3 
   
+## Day 3: ENS, DEX, Identity, Inventory, Sybil
+
+#### Decentralized App(dApp) 
+
+A dApp is just like any software application- any website or phone app. The difference is that the backend code runs on a decentralized network such as a peer to peer network or a blockchain. So an application on Ethereum is a dApp.
+
+We'll use our wallet to interfere with web3 services. Our identity & inventory will follow you from app to app. 
+
+#### ENS 
+
+The wallet address is a 42-character hexadecimal address. This is very hard to remember. That's where ENS comes in. 
+
+[Etherum Name Service (ENS)](https://docs.ens.domains/) is a lookup service built on the Ethereum. It's like Domain Name Service(DNS) in the Ethereum world. 
+
+Just as DNS takes the IP address and maps it to a human-readable domain name, ENS takes the crypto address and maps it to a human-readable string. 
+
+#### Decentrazlized Exchange & Centralized Exchange 
+
+- Centralized Exchange: An exchange thats owned by one entity. They allow you to buy and sell crypto currencies. 
+- Decentralized Exchange: An exchange that allows for peer-to-peer cryptocurrency transactions. There are no intermediaries but instead its based on smart contracts. 
+
+[Uniswap](https://uniswap.org/) is a Decentralized Exchange on the Ethereum Blockchain. 
+
+#### ERC 20
+
+ERC stands "Ethereum request for comment" and 20 is the token identifier. ERC-20 is a standard for smart contracts that create fungible tokens on the Ethereum blockchain.
+
+There are more ERC smart contracts. For example, the standard for creating a non-fungible token(NFT) is ERC-721.
+
+DAI is an ERC20 token. You can read on how DAI works [here](https://docs.makerdao.com/getting-started/maker-protocol-101)
+
 ### 🥅 Goals TODO
-- [ ] 	Get an ENS name 
+- [ ]  Get an ENS name & set your primary ENS name
 - [ ]  Send you transaction 
-- [ ]  Checkout Uniswap 
-  
+- [ ]  Have a look at Uniswap 
+- [ ]  Look at Zapper.fi 
+
+**Deliverables**
+- [ ] Send you ENS transaction(s) **TO DO**
+
 ----  
   
 ## to do: Day 4
