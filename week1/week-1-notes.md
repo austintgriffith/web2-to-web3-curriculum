@@ -82,7 +82,6 @@ DAI is an ERC20 token. You can read on how DAI works [here](https://docs.makerda
 
 ### 🥅 Goals TODO
 - [ ]  Get an ENS name & set your primary ENS name
-- [ ]  Send you transaction 
 - [ ]  Have a look at Uniswap 
 - [ ]  Look at Zapper.fi 
 
