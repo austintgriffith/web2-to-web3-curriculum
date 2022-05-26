@@ -32,12 +32,11 @@ when you send some tokens from one account to another it will be addded to the l
 
 #### Gas Fees 
 
-Every transaction on the blockchain has a cost. So when you want to send tokens you need to pay the price called **gas fee**. Gas is the measure of the unit to denote the cost for a transaction. Accordingly, gas fees are the fees that are paid to the network to process the transactions. 
+Every transaction on the blockchain has a cost. So when you want to send tokens you need to pay the price called **gas fee**. Gas is the measure of the unit to denote the cost for a transaction. Accordingly, gas fees are the fees that are paid to the network to process the transactions.
+
 On Ethereum, gas fees are paid in ETH and denoted in gwei. 
 
-**TO DO: ADD FURTHER READING** https://ethereum.org/en/developers/docs/intro-to-ethereum/ 
-
-### 🥅 Goals TODO
+### 🥅 Goals
 - [ ] Setup a metamask wallet 
 - [ ] Add Test Netwoks to metamask 
 - [ ] Get some Testnet ETH
@@ -59,11 +58,7 @@ We'll use our wallet to interfere with web3 services. Our identity & inventory w
 
 #### ENS 
 
-The wallet address is a 42-character hexadecimal address. This is very hard to remember. That's where ENS comes in. 
-
-[Etherum Name Service (ENS)](https://docs.ens.domains/) is a lookup service built on the Ethereum. It's like Domain Name Service(DNS) in the Ethereum world. 
-
-Just as DNS takes the IP address and maps it to a human-readable domain name, ENS takes the crypto address and maps it to a human-readable string. 
+The wallet address is a 42-character hexadecimal address. This is very hard to remember. That's where ENS comes in. [Etherum Name Service (ENS)](https://docs.ens.domains/) is a lookup service built on the Ethereum. It's like Domain Name Service(DNS) in the Ethereum world. Just as DNS takes the IP address and maps it to a human-readable domain name, ENS takes the crypto address and maps it to a human-readable string. 
 
 #### Decentrazlized Exchange & Centralized Exchange 
 
@@ -74,13 +69,13 @@ Just as DNS takes the IP address and maps it to a human-readable domain name, EN
 
 #### ERC 20
 
-ERC stands "Ethereum request for comment" and 20 is the token identifier. ERC-20 is a standard for smart contracts that create fungible tokens on the Ethereum blockchain.
+ERC-20 is a standard for smart contracts that create fungible tokens on the Ethereum blockchain. ERC stands "Ethereum request for comment" and 20 is the token identifier. 
+
+DAI is an ERC20 token thats a stablecoin. You can read on how DAI works [here](https://docs.makerdao.com/getting-started/maker-protocol-101)
 
 There are more ERC smart contracts. For example, the standard for creating a non-fungible token(NFT) is ERC-721.
 
-DAI is an ERC20 token. You can read on how DAI works [here](https://docs.makerdao.com/getting-started/maker-protocol-101)
-
-### 🥅 Goals TODO
+### 🥅 Goals
 - [ ]  Get an ENS name & set your primary ENS name
 - [ ]  Have a look at Uniswap 
 - [ ]  Look at Zapper.fi 
@@ -90,17 +85,69 @@ DAI is an ERC20 token. You can read on how DAI works [here](https://docs.makerda
 
 ----  
   
-## to do: Day 4
+## Day 4: NFTs! ERC20 vs ERC721, IPFS, Metadata
+
+#### NFT
+
+NFT stands for Non-Fungible Token.
+* Non-fungible: Non-fungible refers to goods that have unique properties and can not be changed with one another. 
+* Token: Token is a digital asset living on top of the blockchain.
+
+NFT's are unique digital assets on the blockchain. They are each one of a kind; this allows for tracking the ownership. NFT's are created by running the code on the smart contract. This process is also called "minting."
+
+ERC-721 is a standard type of smart contract that creates NFTs on Ethereum. Here's a sample NFT which you can find over [here.](https://github.com/carletex/sanford-stout-nft)
+
+[Opensea](https://opensea.io/) is an NFT Marketplace where users can buy/sell NFTs. 
   
-### 🥅 Goals TODO
-- [ ] Mint an NFT?
-- [ ] Have a look at NFT marketplace 
-  
+#### Storage Types 
+
+In the NFT smart contract we define where the metadata of the NFT is located. There are different ways to store the data in the NFT. Basically, there is a seperate storage layer that holds the content. 
+
+[IPFS](https://ipfs.io/) stands for InterPlanetary File System. It is a distributed system for storing and accessing files, websites, applications, and data.
+
+SVG stands for Scalable Vector Graphics, it renders the content in the smart contract. Having the content on the smart contract allows to make things that are more composable.
+
+There are also centralized storage options to store the data and the images. 
+
+### 🥅 Goals 
+- [ ] Mint an NFT from Etherscan??? **to do: rinkeby??** 
+- [ ] Have a look at NFT marketplace(s) 
+- [ ] Check out your inventory on Zapper.fi 
+
+**Deliverables**
+- [ ] Submit you NFT transaction **to do**
+ 
 ----  
   
-## to do: Day 5
+## Day 5: Stuck Transaction, Gas Limits, Multisigs, L2s, Lending
+
+#### Transactions
+- Edit the gas fee on metamask : gas limit, max priority fee, max fee(gwei)
+- Nounce is an abbreviation for “number used once." 
+
+#### Layer 2
+Faster and quicker transaction, settels to Ethereum and uses the security of ethereum.
+Optimisim 
+
+quixotic: optimisim nft marketplace 
+
+#### Lending
+- supply money to the contract --> lock as collateral 
   
+#### ERC20 Approve Pattern 
+dai to eth on matcha.xyz
+
+#### Multisigs
+gnosis safe 
+smart contract wallet 
+sign & sign + execute 
+use a multisig to make a transaction: move money with a vote from the multisig 
+
 ### 🥅 Goals TODO
 - [ ] Deposit and Borrow on Aave 
 - [ ] Bridge some tokens to Optimisim 
 - [ ] Setup a multi-sig wallet
+
+**Deliverables**
+- [ ] Submit your transactions of gnosis safe **TO DO**
+
