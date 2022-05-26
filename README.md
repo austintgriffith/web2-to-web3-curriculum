@@ -75,6 +75,7 @@
 ### Week 2 - 👩‍🚀  Scripting and Deeper Concepts
 
 - **day 1**: [https://youtu.be/m2AJAcWk394](https://youtu.be/m2AJAcWk394)
+
   simple script to talk to providers, get balance - RPCs
 
   providers, signers, wallets, basics of ethers.js
@@ -85,9 +86,11 @@
   
   (we should eventually show people how to run a node full, light, client divserity)
    
-- **day 2**: sending transactions and talking to contracts 
+- **day 2**: [https://youtu.be/9qt35swYSUg](https://youtu.be/9qt35swYSUg)
 
-   discussions about: gas prices, mempool, front-running
+  sending transactions and talking to contracts 
+
+  discussions about: gas prices, mempool, front-running
    
 - **day 3**: hard hat? testing? advanced? sign, recover, encrypt, and decrypt
 
