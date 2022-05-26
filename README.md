@@ -2,7 +2,7 @@
 
 ## 🖍 a curated, free, and open-source web3 curriculum
 
-📚  *prerequisites: You need to know how to write javascript!*
+📚  *prerequisites: You need to know how to write javascript!* (try a few [simple js challenges](https://github.com/carletex/js-challenges))
 
 ---
 
@@ -25,6 +25,9 @@
   async reading material list:
   [https://www.youtube.com/watch?v=bBC-nXj3Ng4](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
   
+  if we only had your attention for one hour, we would get straight to [tinkering with solidity](https://www.youtube.com/watch?v=MlJPjJQZtC8)
+  
+  but if we have time to explain things slowly over many episodes...
 
 - **day 2**: [https://youtu.be/_GjPeRLCREA](https://youtu.be/_GjPeRLCREA)
 
@@ -71,7 +74,8 @@
 
 ### Week 2 - 👩‍🚀  Scripting and Deeper Concepts
 
-- **day 1**: simple script to talk to providers, get balance - RPCs
+- **day 1**: [https://youtu.be/m2AJAcWk394](https://youtu.be/m2AJAcWk394)
+  simple script to talk to providers, get balance - RPCs
 
   providers, signers, wallets, basics of ethers.js
 
@@ -81,15 +85,17 @@
   
   (we should eventually show people how to run a node full, light, client divserity)
    
-- **day 2**: sending transactions 
+- **day 2**: sending transactions and talking to contracts 
 
    discussions about: gas prices, mempool, front-running
    
-- **day 3**: interacting with contracts
+- **day 3**: hard hat? testing? advanced? sign, recover, encrypt, and decrypt
 
 - **day 4**: parsing blocks to find all transactions from an account (Indexer!)
 
    leads you to graph and/or running your own geth node
+   
+   (when you have your own node running you can ask it for the mempool!) 
    
 - **day 5**: advanced: sign, recover, encrypt, and decrypt
 
