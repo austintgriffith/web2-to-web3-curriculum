@@ -1,4 +1,4 @@
-**week 2 / day 2:** Hardhat environment
+**week 2 / day 3:** Hardhat environment
 
 Running a local node with geth.
   - Client diversity
