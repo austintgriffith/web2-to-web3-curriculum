@@ -94,13 +94,9 @@
    
 - **day 3**: hard hat? testing? advanced? sign, recover, encrypt, and decrypt
 
-- **day 4**: parsing blocks to find all transactions from an account (Indexer!)
-
-   leads you to graph and/or running your own geth node
+- **day 4**: solidity! primative datatypes, functions, require, mapping, - inheritance / modifiers 
    
-   (when you have your own node running you can ask it for the mempool!) 
-   
-- **day 5**: advanced: sign, recover, encrypt, and decrypt
+- **day 5**: basic app building
 
 ---
 
