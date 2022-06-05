@@ -121,33 +121,40 @@ There are also centralized storage options to store the data and the images.
   
 ## Day 5: Stuck Transaction, Gas Limits, Multisigs, L2s, Lending
 
-#### Transactions
-- Edit the gas fee on metamask : gas limit, max priority fee, max fee(gwei)
-- Nounce is an abbreviation for “number used once." 
+#### Metamask Settings
+
+You are able to edit the gas fee on Metamask: gas limit, max priority fee, max fee(gwei)
+
+In Ethereum, every transaction has a nonce. Nounce is an abbreviation for “number used once." Each time you make a transaction the nonce increases by 1. The transactions must be executed in order, and the order is determinded by the nounce. This prevents the double-spend problem.  
 
 #### Layer 2
-Faster and quicker transaction, settels to Ethereum and uses the security of ethereum.
-Optimisim 
 
-quixotic: optimisim nft marketplace 
+The goal of the scaling solutions is to increase the speed and lower the cost without giving away the security and the security or decentralization of the main blockchain, also known as the L1 base chain. 
 
-#### Lending
-- supply money to the contract --> lock as collateral 
-  
-#### ERC20 Approve Pattern 
-dai to eth on matcha.xyz
+There are various kinds of [scaling solutions](https://ethereum.org/en/developers/docs/scaling/) for Ethereum that are being used and researched.
 
-#### Multisigs
-gnosis safe 
-smart contract wallet 
-sign & sign + execute 
-use a multisig to make a transaction: move money with a vote from the multisig 
+Layer 2 is a type of scaling solution that provices faster and quicker transaction, uses the security of Ethereum.
+
+[Optimism](https://www.optimism.io/) is an optimistic rollup layer2 Solution. A rollup combines a bunch of transactions into one, and it will only submit that one transaction to the Layer 1 blockchain. This way, it avoids congestion on the main chain. It basically takes some transactions and rolls them up to one, hence the name "rollups."  
+
+#### Decentrazlized Finance (DeFi)
+
+[DeFi](https://www.coinbase.com/learn/crypto-basics/what-is-defi) is financial technology thats based on cryptocurrency. There aren't any central intermediaries, instead the transactions are peer-to-peer.
+
+[Aave](https://aave.com/) is a decentralized non-custodial liquidity protocol. It allows users to manage their digital assests. Users can participate by borrowing and depositing assets. Depositing assets means that you are providing assets the liquidity pool or in other words you are supplying money to the smart contract. 
+
+[Matcha](https://matcha.xyz/) is a DEX aggregator on Ethereum that aggregates the prices of other DEX's and merges them to a single result. 
+
+#### Multisig 
+
+A Multisignature(multisig) is a smart contract wallet that operates with 2 or more addresses. It requires two or more private keys to set a crypto wallet. You can define the rules to sign and execute transactions. Fo example, you can have a wallet with 5 signers and 4 signers need to approve for a transactions to be executed. 
+
+[Gnosis Safe](https://gnosis-safe.io/) is a multisig on Ethereum. You can manage all your digital assets on a multisig wallet. 
 
 ### 🥅 Goals TODO
-- [ ] Deposit and Borrow on Aave 
 - [ ] Bridge some tokens to Optimisim 
 - [ ] Setup a multi-sig wallet
 
 **Deliverables**
-- [ ] Submit your transactions of gnosis safe **TO DO**
+- [ ] Submit your transactions of Gnosis-safe 
 
