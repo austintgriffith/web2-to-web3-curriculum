@@ -1,8 +1,9 @@
 ## 👩‍🚀 Scripting and Deeper Concepts 
 
-## Day 1: Scripting with ethers.js, Providers, Signers, Wallets, etc..
+Here are the Scripts for the [week]([https://github.com/carletex/week2-scripts/tree/main/day1](https://github.com/carletex/week2-scripts)). 
 
-Here are the Scripts for [Day1](https://github.com/carletex/week2-scripts/tree/main/day1). 
+
+## Day 1: Scripting with ethers.js, Providers, Signers, Wallets, etc..
 
 [Ethers.js](https://docs.ethers.io/v5/): javascript library that helps you communicate with Ethereum. Helper functions, send value around, format. It’s a very lightweight library.
 Another popular js libary is web3.js
@@ -26,8 +27,18 @@ Another popular js libary is web3.js
 
 ## Day 2: 
 
+[Contract](https://docs.ethers.io/v5/api/contract/contract/): abstraction of code that has been deployed to the blockchain. If you want talk to a contract your making a transaction that interacts with the smart contract
+
+[Application Binary Interface(ABI)](https://docs.ethers.io/v5/api/utils/abi/): is the interface between two program modules. Simply put, ABI is like the API (Application Programming Interface) in the Ethereum world. It defines the methods and structures to interact with the smart contract.
+
+Make sure:
+- to create new wallet & private key for your smart contracts
+- don’t commit your .ENV file to GitHub! 
+
 ### 🥅 Goals
-- [ ] XX
+- [ ] Interact with a Smart Contract (eg: Standford NFT, DAI) 
+- [ ] Testing transactions: Send TestNet ETH
+- [ ] Go through the utils file in the week-2 folder
 
 **Deliverables**
 - [ ] XX
