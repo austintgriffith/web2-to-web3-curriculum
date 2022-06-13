@@ -1,6 +1,6 @@
 ## 👩‍🚀 Scripting and Deeper Concepts 
 
-Here are the Scripts for the [week]([https://github.com/carletex/week2-scripts/tree/main/day1](https://github.com/carletex/week2-scripts)). 
+Here are the Scripts for the [week](https://github.com/carletex/week2-scripts). 
 
 
 ## Day 1: Scripting with ethers.js, Providers, Signers, Wallets, etc..
