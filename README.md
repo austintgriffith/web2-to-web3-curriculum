@@ -96,7 +96,9 @@
 
 - **day 4**: solidity! primative datatypes, functions, require, mapping, - inheritance / modifiers 
    
-- **day 5**: basic app building
+- **day 5**: [https://youtu.be/7pIzfm7hxQk](https://youtu.be/7pIzfm7hxQk)
+
+  solidity recap and 🏗 scaffold-eth intro
 
 ---
 
