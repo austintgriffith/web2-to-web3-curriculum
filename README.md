@@ -92,9 +92,13 @@
 
   discussions about: gas prices, mempool, front-running
    
-- **day 3**: hard hat? testing? advanced? sign, recover, encrypt, and decrypt
+- **day 3**: [https://youtu.be/7EwDOV4nEcY](https://youtu.be/7EwDOV4nEcY)
+    
+  hard hat? testing? advanced? sign, recover, encrypt, and decrypt
 
-- **day 4**: solidity! primative datatypes, functions, require, mapping, - inheritance / modifiers 
+- **day 4**: [https://youtu.be/KjzH5EPCA-A](https://youtu.be/KjzH5EPCA-A)
+
+  solidity! primative datatypes, functions, require, mapping, - inheritance / modifiers 
    
 - **day 5**: [https://youtu.be/7pIzfm7hxQk](https://youtu.be/7pIzfm7hxQk)
 
