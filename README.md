@@ -107,22 +107,14 @@
 ---
 
 ### Week 3 - 🧙‍♀️  Smart Contracts / Solidity  - Building Dapps - SRE
-
-- **day 1**: Start with Remix and show smart contracts from the browser - learn how to tinker
-
-   high level: Massive multiplayer programmable vending machine - remember: unstoppable apps, design incentives 
    
-   discussions about: solidity syntax, storage vs events, require, mappings, paybable functions 
-   
-   (solidity by example copy pasting like crazy!)
-   
-- **day 2**: SpeedRunEthereum.com - Challenge 0 - NFT deployed to testnet
+- **day 1**: [https://youtu.be/ej_RgaO1Pr0](https://youtu.be/ej_RgaO1Pr0) SpeedRunEthereum.com - Challenge 0 - NFT deployed to testnet
 
-- **day 3**: SpeedRunEthereum.com - Challenge 1 - Staking app 
+- **day 2**: [https://youtu.be/DcOzXhaxtt4](https://youtu.be/DcOzXhaxtt4) SpeedRunEthereum.com - Challenge 1 - Staking app 
 
-- **day 4**: SpeedRunEthereum.com - Challenge 2 - Token Vendor
+- **day 3**: SpeedRunEthereum.com - Challenge 2 - Token Vendor
 
-- **day 5**: Choose your own adventure: DEX, multisig, or SVG NFT
+- **day 4**: Choose your own adventure: DEX, multisig, or SVG NFT
 
 ---
 
