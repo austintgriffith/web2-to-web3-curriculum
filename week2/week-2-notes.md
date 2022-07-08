@@ -20,9 +20,6 @@ Another popular js libary is web3.js
 - [ ] Use a signer 
 - [ ] Make sure to have the .env file 
 
-**Deliverables**
-- [ ] TO DO 
-
 ----
 
 ## Day 2: 
@@ -45,39 +42,45 @@ Make sure:
 
 ----
 
-## Day 3: 
+## Day 3: Intro to Ethereum Clients & Hardhat
 
-hard hat? testing? advanced? sign, recover, encrypt, and decrypt
-https://youtu.be/7EwDOV4nEcY
+[Ethereum Nodes and Clients](https://ethereum.org/en/developers/docs/nodes-and-clients/): Ethereum is a distributed network of computers, called nodes, that run software to verify the blocks and the transaction data. This software application is called a client, and the computer running it is an Ethereum node. 
+  - There are different types of clients and you can read more [here](https://ethereum.org/en/developers/docs/nodes-and-clients/client-diversity/). 
+  - Read more about nodes & [run your own node](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/). Running your own node provides you various benefits, opens new possibilities, and helps to support the ecosystem.
+    - [How to run a light node with geth](https://ethereum.org/en/developers/tutorials/run-light-node-geth/)
+
+[Hardhat](https://hardhat.org/hardhat-runner/docs/getting-started#overview) is a development environment to compile, test and debug your ethereum software. You can create a complete developer environment and have your own local blockchain to test your smart contracts. 
+
+**Be careful: Do not deploy to mainnet with the default hardhat accounts!**
 
 ### 🥅 Goals
-- [ ] XX
-
-**Deliverables**
-- [ ] XX
+- [ ] Setup your geth light client 
+- [ ] Use your own local node as a provider, and get the blocknumber from your local node & another node provider (Infura, Alchemy etc.)
+- [ ] Hardhat Setup & Testing smart contacts with Hardhat
+- [ ] Verify your smart contract on Etherscan 
 
 ---
 
-## Day 4: 
+## Day 4: Solidity & Testing with Hardhat  
 
-solidity! primative datatypes, functions, require, mapping, - inheritance / modifiers
-https://youtu.be/KjzH5EPCA-A
+Learn Solidity on [Solidity by Examples](https://solidity-by-example.org/).
+
+[Remix Ide](https://remix.ethereum.org/) is a browser-based ide for Ethereum, its convenient to get started with as you don't need any setup.
 
 ### 🥅 Goals
-- [ ] XX
-
-**Deliverables**
-- [ ] XX
+- [ ] Try different conpets on Solidity
+- [ ] Write a smart contract and the tests for it
 
 ---
 
-## Day 5: 
+## Day 5: 🏗 Scaffold-eth Intro & Solidity Recap  
 
-solidity recap and 🏗 scaffold-eth intro
-[[https://youtu.be/7EwDOV4nEcY](https://youtu.be/KjzH5EPCA-A)](https://youtu.be/7pIzfm7hxQk)
+[Scaffold-Eth](https://github.com/scaffold-eth/scaffold-eth) is a template for building Decentralized Applications(dApp's). It provides rapid prototyping on Ethereum. With Scaffold-ETH, you can change the smart contract, and the changes will automatically reflect on your frontend. This way, you can see and test your smart contract changes from the UI.
+
+[Solidity Code Examples](https://solidity-by-example.org/) which you can try on your smart contracts.
+
+[The Ethernaut](https://ethernaut.openzeppelin.com/) is a game to learn about the smart contract vulneratibilities. It's a game where users hack the smart contract to move onto the next levels.  
 
 ### 🥅 Goals
-- [ ] XX
+- [ ] Get Scaffold-eth and tinker with Solidity 
 
-**Deliverables**
-- [ ] XX
