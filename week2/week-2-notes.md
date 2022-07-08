@@ -47,6 +47,35 @@ Make sure:
 
 ## Day 3: 
 
+hard hat? testing? advanced? sign, recover, encrypt, and decrypt
+https://youtu.be/7EwDOV4nEcY
+
+### 🥅 Goals
+- [ ] XX
+
+**Deliverables**
+- [ ] XX
+
+---
+
+## Day 4: 
+
+solidity! primative datatypes, functions, require, mapping, - inheritance / modifiers
+https://youtu.be/KjzH5EPCA-A
+
+### 🥅 Goals
+- [ ] XX
+
+**Deliverables**
+- [ ] XX
+
+---
+
+## Day 5: 
+
+solidity recap and 🏗 scaffold-eth intro
+[[https://youtu.be/7EwDOV4nEcY](https://youtu.be/KjzH5EPCA-A)](https://youtu.be/7pIzfm7hxQk)
+
 ### 🥅 Goals
 - [ ] XX
 
