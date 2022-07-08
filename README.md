@@ -114,7 +114,9 @@
 
 - **day 3**: SpeedRunEthereum.com - Challenge 2 - Token Vendor
 
-- **day 4**: Choose your own adventure: DEX, multisig, or SVG NFT
+- **day 4**: SpeedRunEthereum.com - Challenge 3 -  Dice Game
+
+- **day 5**: Choose your own adventure: DEX, multisig, or SVG NFT
 
 ---
 
