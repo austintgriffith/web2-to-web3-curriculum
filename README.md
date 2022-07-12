@@ -18,34 +18,15 @@
 
 **TO DO: add intro**
 
-- **day 1**: intro %TODO% - %%% we'll come back to this and fill in whatever details we need to cover up front %%%
-
-  discussions: Blockchains, decentralization, Unstoppable apps, money/incentives at the protocol, coordination
-   
-  Redundancy, Censorship resistance, web3 cron jobs are different, trust (escrow is a good way to explain)
-  
-  simple to code, composability, compounding pace
-   
-  apps: what are people building? NFT, DEFI, DAOS - disclaimer: some garbage
-      
-  gotchas: expensive, mnemonic lost means everything lost, chain is hard to parse, apps are centralized, so much noise
-
-  future: building coordination games for nation states - funding public goods - radical markets?
-  
-  async reading material list:
-  [https://www.youtube.com/watch?v=bBC-nXj3Ng4](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-  
-  if we only had your attention for one hour, we would get straight to [tinkering with solidity](https://www.youtube.com/watch?v=MlJPjJQZtC8)
-  
-  but if we have time to explain things slowly over many episodes...
+- **Day 1**: intro %TODO% - %%% we'll come back to this and fill in whatever details we need to cover up front %%%
 
 - **Day 2**: [Wallets, Transactions, Gas](https://youtu.be/_GjPeRLCREA)
    
-- **day 3**: [DApp, ENS, DEX & Identity](https://youtu.be/wYSMNdIRoII)  
+- **Day 3**: [DApp, ENS, DEX & Identity](https://youtu.be/wYSMNdIRoII)  
    
-- **day 4**: [NFTs! ERC20 vs ERC721, IPFS, Metadata](https://youtu.be/NOdrEpnoCiM)
+- **Day 4**: [NFTs! ERC20 vs ERC721, IPFS, Metadata](https://youtu.be/NOdrEpnoCiM)
    
-- **day 5**: [Stuck Transaction, Gas Limits, Multisigs, L2s & DeFi](https://youtu.be/11QTT6BK5j0)
+- **Day 5**: [Stuck Transaction, Gas Limits, Multisigs, L2s & DeFi](https://youtu.be/11QTT6BK5j0)
  
 ---
 
@@ -85,15 +66,10 @@
 
 **TO DO: add intro**
 
-- **Day 1**: open/social call to cover:
-
-   final concepts and questions
-   
-   ideation and team forming
-   
-- **Day 2-4**: checkins, office hours
-
-- **Day 5**: show off what you built!
+- **Day 1**: %Create your own project, join buildguild, hacakthon intro -- how to upload your project to buidlguidl, whats buidlguidl%
+- where to reach out 
+- follow up resources 
+- show the telegram groups 
 
 ---
 
