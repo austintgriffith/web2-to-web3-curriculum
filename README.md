@@ -16,6 +16,8 @@
 
 ### Week 1 - 👩‍🔬 Becoming A Power User
 
+**TO DO: add intro**
+
 - **day 1**: intro %TODO% - %%% we'll come back to this and fill in whatever details we need to cover up front %%%
 
   discussions: Blockchains, decentralization, Unstoppable apps, money/incentives at the protocol, coordination
@@ -49,6 +51,8 @@
 
 ### Week 2 - 👩‍🚀 Scripting, Smart Contracts / Solidity 
 
+**TO DO: add intro**
+
 - **Day 1**: [Providers, Signers, Wallets & Scripting with ethers.js](https://youtu.be/m2AJAcWk394)
    
 - **Day 2**: [Reading & writing to contracts with ethers.js](https://youtu.be/9qt35swYSUg)
@@ -62,6 +66,8 @@
 ---
 
 ### Week 3 - 🧙‍♀️ Building Dapps - SpeedRunEthereum.com
+
+**TO DO: add intro**
    
 - **Day 1**: [SpeedRunEthereum.com - Challenge 0 - NFT deployed to testnet](https://youtu.be/ej_RgaO1Pr0)
 
@@ -76,6 +82,8 @@
 ---
 
 ### Week 4 - 🚢  Build Your Own Project 
+
+**TO DO: add intro**
 
 - **Day 1**: open/social call to cover:
 
