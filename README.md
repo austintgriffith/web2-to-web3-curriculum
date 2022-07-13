@@ -112,9 +112,9 @@
 
 - **day 2**: [https://youtu.be/DcOzXhaxtt4](https://youtu.be/DcOzXhaxtt4) SpeedRunEthereum.com - Challenge 1 - Staking app 
 
-- **day 3**: SpeedRunEthereum.com - Challenge 2 - Token Vendor
+- **day 3**: [https://youtu.be/OvBrInI5VbM](https://youtu.be/OvBrInI5VbM) SpeedRunEthereum.com - Challenge 2 - Token Vendor
 
-- **day 4**: SpeedRunEthereum.com - Challenge 3 -  Dice Game
+- **day 4**: [https://youtu.be/IMEmwxTDnBw](https://youtu.be/IMEmwxTDnBw) SpeedRunEthereum.com - Challenge 3 -  Dice Game
 
 - **day 5**: Choose your own adventure: DEX, multisig, or SVG NFT
 
