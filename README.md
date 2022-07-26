@@ -8,7 +8,7 @@
 
 ### Week 1 - 👩‍🔬  Becoming A Power User
 
-- **day 1**: intro %TODO% - %%% we'll come back to this and fill in whatever details we need to cover up front %%%
+- **day 1**: 
 
   discussions: Blockchains, decentralization, Unstoppable apps, money/incentives at the protocol, coordination
    
@@ -21,10 +21,7 @@
   gotchas: expensive, mnemonic lost means everything lost, chain is hard to parse, apps are centralized, so much noise
 
   future: building coordination games for nation states - funding public goods - radical markets?
-  
-  async reading material list:
-  [https://www.youtube.com/watch?v=bBC-nXj3Ng4](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-  
+
   if we only had your attention for one hour, we would get straight to [tinkering with solidity](https://www.youtube.com/watch?v=MlJPjJQZtC8)
   
   but if we have time to explain things slowly over many episodes...
