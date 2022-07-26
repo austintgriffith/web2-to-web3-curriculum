@@ -116,7 +116,7 @@
 
 - **day 4**: [https://youtu.be/IMEmwxTDnBw](https://youtu.be/IMEmwxTDnBw) SpeedRunEthereum.com - Challenge 3 -  Dice Game
 
-- **day 5**: Choose your own adventure: DEX, multisig, or SVG NFT
+- **day 5**: [https://youtu.be/vWkkwVUuGog](https://youtu.be/vWkkwVUuGog) SpeedRunEthereum.com - Choose your own adventure: DEX, multisig, and SVG NFT
 
 ---
 
