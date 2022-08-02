@@ -1,7 +1,8 @@
 ## 👩‍🚀 Scripting and Deeper Concepts 
 
-Here are the Scripts for the [week](https://github.com/carletex/week2-scripts). 
+In this section we'll start programming! It goes from writing scripts to talk to the blockchain to building Decentrazlized Applications(dApps). The topics covered included Providers, Signers, ethers.js, hardhat, scaffold-eth and many more! 
 
+Here are the Scripts for the [week](https://github.com/carletex/week2-scripts). 
 
 ## Day 1: Scripting with ethers.js, Providers, Signers, Wallets, etc..
 
