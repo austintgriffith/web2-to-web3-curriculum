@@ -16,7 +16,7 @@
 
 ### Week 1 - 👩‍🔬 Becoming A Power User
 
-The first step to starting out as a developer in the web3 ecosytem is to first become a power user! You should start by getting hands-on & using the tools which will give you a much greater understanding of what you can do and what the crypto space is all about! In this section we're talking about the tools in the crypto space, using them and helping you become an Ethereum power user! 
+The first step to starting out as a developer in the web3 ecosytem is to first become a **Power User!** You should start by getting hands-on & using the tools which will give you a much greater understanding of what you can do and what the crypto space is all about. In this section we're talking about the tools in the crypto space, using them and helping you become an Ethereum power user.
 
 - **Day 1**: [to do]
 
@@ -32,7 +32,7 @@ The first step to starting out as a developer in the web3 ecosytem is to first b
 
 ### Week 2 - 👩‍🚀 Scripting, Smart Contracts / Solidity 
 
-In this section we'll **start programming!** It goes from writing scripts to talk to the blockchain to building Decentrazlized Applications(dApps). The topics covered included Providers, Signers, ethers.js, hardhat, scaffold-eth and many more! Follow the notes here [to do add link to notes]
+In this section we'll **start programming!** It goes from writing scripts to talk to the blockchain to building Decentrazlized Applications(dApps). The topics covered included Providers, Signers, ethers.js, hardhat, scaffold-eth and many more! Follow the notes here **[to do add link to notes]**
 
 - **Day 1**: [Providers, Signers, Wallets & Scripting with ethers.js](https://youtu.be/m2AJAcWk394)
    
