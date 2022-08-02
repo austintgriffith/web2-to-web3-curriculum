@@ -18,7 +18,7 @@
 
 The first step to starting out as a developer in the web3 ecosytem is to first become a **Power User!** You should start by getting hands-on & using the tools which will give you a much greater understanding of what you can do and what the crypto space is all about. In this section we're talking about the tools in the crypto space, using them and helping you become an Ethereum power user.
 
-- **Day 1**: [to do]
+- **Day 1**: [Introduction](https://youtu.be/zuJ-elbo88E)
 
 - **Day 2**: [Wallets, Transactions, Gas](https://youtu.be/_GjPeRLCREA)
    
