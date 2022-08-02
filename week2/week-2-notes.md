@@ -37,9 +37,6 @@ Make sure:
 - [ ] Testing transactions: Send TestNet ETH
 - [ ] Go through the utils file in the week-2 folder
 
-**Deliverables**
-- [ ] XX
-
 ----
 
 ## Day 3: Intro to Ethereum Clients & Hardhat
