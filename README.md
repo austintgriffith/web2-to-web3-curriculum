@@ -48,7 +48,7 @@
 
 ### Week 3 - 🧙‍♀️ Building Dapps - SpeedRunEthereum.com
 
-**TO DO: add intro**
+In this section, we'll be going through SpeedRunEthereum! SpeedRunEthereum is a set of challenges for developers to get building with Ethereum. It's not only about learning the syntax but also understanding what's possible with Ethereum. It's also a great way to build your web3 portfolio. You'll be writing code and deploying your smart contracts. 
    
 - **Day 1**: [SpeedRunEthereum.com - Challenge 0 - NFT deployed to testnet](https://youtu.be/ej_RgaO1Pr0)
 
@@ -58,7 +58,7 @@
 
 - **Day 4**: [SpeedRunEthereum.com - Challenge 3 -  Dice Game](https://youtu.be/IMEmwxTDnBw)
 
-- **Day 5**: Choose your own adventure: DEX, multisig, or SVG NFT
+- **Day 5**: [SpeedRunEthereum.com - Next Challenges: ⚖️DEX + 👛 Multisig + 🎫 SVG NFT](https://youtu.be/IMEmwxTDnBw)
 
 ---
 
@@ -75,9 +75,10 @@
 
 ### Next Steps!
 
-**Success tier 1:** Get hired as a junior with your Speed Run portfolio... build things and show them off on twitter!  ([Here](https://twitter.com/austingriffith/status/1478760479275175940?s=20&t=0zGF8M_7Hoeuy-D6LDoFpA) is a good "next steps" thread)
+**Congrats!!** Now its time to move to the next stages! There are many different pathways to continue with the skills you've gained through the weeks. Here are some options:
 
-**Success tier 2:** Build your own product or start building forkable examples and tutorials for the ecosystem 
+ - Get hired as a junior with your Speed Run portfolio. Build things and show them off on Twitter!  ([Here](https://twitter.com/austingriffith/status/1478760479275175940?s=20&t=0zGF8M_7Hoeuy-D6LDoFpA) is a great "next steps" thread)
+
+- Build your own product or start building forkable examples and tutorials for the ecosystem 
 (Go learn something and then leave the camp site better than you found it. Help the next dev learn what you learned, but easier.) 
-
-**Success tier 3:** Go crush some of the harder challenges like the [Ethernaut](https://ethernaut.openzeppelin.com/), read through previous audits, start auditing yolos from the BG, get introduced to audit firms and folks within our network that are at the cutting edge with solidity auditing...
+- Go crush some of the harder challenges like the [Ethernaut](https://ethernaut.openzeppelin.com/), read through previous audits, start auditing yolos from the BG, get introduced to audit firms and folks within our network that are at the cutting edge with solidity auditing...
