@@ -66,7 +66,7 @@ In this section, we'll be going through **SpeedRunEthereum!** SpeedRunEthereum i
 
 **TO DO: add intro**
 
-- **Day 1**: %Create your own project, join buildguild, hacakthon intro -- how to upload your project to buidlguidl, whats buidlguidl%
+- **Day 1**: %Create your own project, join buildguild, hackathon intro -- how to upload your project to buidlguidl, whats buidlguidl%
 - where to reach out 
 - follow up resources 
 - show the telegram groups 
