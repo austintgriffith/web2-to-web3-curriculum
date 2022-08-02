@@ -32,7 +32,9 @@
 
 ### Week 2 - 👩‍🚀 Scripting, Smart Contracts / Solidity 
 
-**TO DO: add intro**
+In this section we'll start programming! It goes from writing scripts to talk to the blockchain to building Decentrazlized Applications(dApps). The topics covered included Providers, Signers, ethers.js, hardhat, scaffold-eth and many more! 
+
+Here are the Scripts for the [week](https://github.com/carletex/week2-scripts). 
 
 - **Day 1**: [Providers, Signers, Wallets & Scripting with ethers.js](https://youtu.be/m2AJAcWk394)
    
@@ -77,8 +79,9 @@ In this section, we'll be going through SpeedRunEthereum! SpeedRunEthereum is a 
 
 **Congrats!!** Now its time to move to the next stages! There are many different pathways to continue with the skills you've gained through the weeks. Here are some options:
 
- - Get hired as a junior with your Speed Run portfolio. Build things and show them off on Twitter!  ([Here](https://twitter.com/austingriffith/status/1478760479275175940?s=20&t=0zGF8M_7Hoeuy-D6LDoFpA) is a great "next steps" thread)
+- Start Working in a web3 company: Get hired as a junior with your Speed Run portfolio. Build things and show them off on Twitter!  ([Here](https://twitter.com/austingriffith/status/1478760479275175940?s=20&t=0zGF8M_7Hoeuy-D6LDoFpA) is a great "next steps" thread)
 
-- Build your own product or start building forkable examples and tutorials for the ecosystem 
+- Build your own tools: Build your own product or start building forkable examples and tutorials for the ecosystem 
 (Go learn something and then leave the camp site better than you found it. Help the next dev learn what you learned, but easier.) 
-- Go crush some of the harder challenges like the [Ethernaut](https://ethernaut.openzeppelin.com/), read through previous audits, start auditing yolos from the BG, get introduced to audit firms and folks within our network that are at the cutting edge with solidity auditing...
+
+- Continue learning more advanced concepts: Go crush some of the harder challenges like the [Ethernaut](https://ethernaut.openzeppelin.com/), read through previous audits, start auditing yolos from the BG, get introduced to audit firms and folks within our network that are at the cutting edge with solidity auditing...
