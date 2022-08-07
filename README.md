@@ -1,8 +1,8 @@
 # 👩‍💻 Web2 to Web3 developer 🚀 
 
-## 🖍 A curated, free, and open-source web3 curriculum
+## 🖍 A curated, free, and open-source curriculum to learn web3
 
-📚  *Prerequisites: You'll need to know how to write javascript!* (try a few [simple js challenges](https://github.com/carletex/js-challenges))
+📚  *Prerequisites: You'll need to know how to write javascript!* (Try a few [simple js challenges](https://github.com/carletex/js-challenges)) 
 
 ---
 
