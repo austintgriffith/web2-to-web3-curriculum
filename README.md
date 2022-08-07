@@ -32,7 +32,7 @@ The first step to starting out as a developer in the web3 ecosytem is to first b
 
 ### Week 2 - 👩‍🚀 Scripting, Smart Contracts / Solidity 
 
-In this section we'll **start programming!** It goes from writing scripts to talk to the blockchain to building Decentrazlized Applications(dApps). The topics covered included Providers, Signers, ethers.js, hardhat, scaffold-eth and many more! Follow the notes here **[to do add link to notes]**
+In this section we'll **start programming!** It goes from writing scripts to talk to the blockchain to building Decentrazlized Applications(dApps). The topics covered included Providers, Signers, ethers.js, hardhat, scaffold-eth and many more! Follow the notes [here.](https://github.com/austintgriffith/web2-to-web3-curriculum/blob/main/week1/week-1-notes.md)
 
 - **Day 1**: [Providers, Signers, Wallets & Scripting with ethers.js](https://youtu.be/m2AJAcWk394)
    
@@ -64,12 +64,11 @@ In this section, we'll be going through **SpeedRunEthereum!** SpeedRunEthereum i
 
 ### Week 4 - 🚢  Build Your Own Project 
 
-**TO DO: add intro**
+Now its your turn to **create your own project!** 
 
-- **Day 1**: %Create your own project, join buildguild, hackathon intro -- how to upload your project to buidlguidl, whats buidlguidl%
-- where to reach out 
-- follow up resources 
-- show the telegram groups 
+It's all about building forkable components with Scaffold-ETH. You can make a new voting system component, work on the open issues, make a new challenge for SpeedRunEthereum, etc. Just make sure to have a well written README so that anyone can easily set it up. Create your project & upload it to your BuidlGuidl Profile! 
+
+There's a lot you can build and you can collaborate with other builders in the ecosystem! That's where BuildGuild comes in! BuidlGuidl is a group of builders that build tools with Scaffold-ETH, meet and learn together, and get funded for contributing. The goal is to empower builders for creating prototypes, projects and resources for the Ethereum ecosystem. 🌟 After building forkable Scaffold-ETH components, submitting them to your builder profile, and being active in the BuidlGuidl Telegram groups, you can get the opportunity to join BuidlGuidl!
 
 ---
 
