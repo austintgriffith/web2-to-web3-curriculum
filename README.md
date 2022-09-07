@@ -1,4 +1,4 @@
-# 👩‍💻 Web2 to Web3 developer 🚀 
+# 👩‍💻 Web2 to Web3 🚀 
 
 ## 🖍 A curated, free, and open-source curriculum to learn Ethereum development 🏅
 
