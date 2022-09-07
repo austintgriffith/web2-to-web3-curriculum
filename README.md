@@ -8,7 +8,7 @@
 
 ### Sections:
 - [Week 1 - 👩‍🔬 Becoming A Power User](#week-1----becoming-a-power-user)
-- [Week 2 - 👩‍🚀 Scripting and Smart Contracts](#week-2----scripting-smart-contracts--solidity)
+- [Week 2 - 👩‍🚀 Scripting and Smart Contracts](#week-2----scripting-and-smart-contracts)
 - [Week 3 - 🧙‍♀️ Building Decentralized Apps](#week-3---%EF%B8%8F-building-dapps---speedrunethereumcom)
 - [Week 4 - 🚢  Build Your Own Project](#week-4-----build-your-own-project)
 - [Next Steps!](#next-steps)
