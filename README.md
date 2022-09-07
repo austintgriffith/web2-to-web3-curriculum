@@ -1,6 +1,6 @@
 # 👩‍💻 Web2 to Web3 developer 🚀 
 
-## 🖍 A curated, free, and open-source curriculum to learn web3
+## 🖍 A curated, free, and open-source curriculum to learn Ethereum development 🏅
 
 📚  *Prerequisites: You'll need to know how to write javascript!* (Try a few [simple js challenges](https://github.com/carletex/js-challenges)) 
 
