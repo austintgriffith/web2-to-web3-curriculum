@@ -32,7 +32,7 @@ You should start by getting hands-on & using the tools which will give you a muc
  
 ---
 
-### Week 2 - 👩‍🚀 Scripting, Smart Contracts / Solidity 
+### Week 2 - 👩‍🚀 Scripting and Smart Contracts
 
 In this section we'll **start programming!** 
 
@@ -50,7 +50,7 @@ It goes from writing scripts to talk to the blockchain to building Decentrazlize
 
 ---
 
-### Week 3 - 🧙‍♀️ Building Dapps - SpeedRunEthereum.com
+### Week 3 - 🧙‍♀️ Building Decentralized Apps
 
 In this section, we'll be going through **SpeedRunEthereum!** 
 
