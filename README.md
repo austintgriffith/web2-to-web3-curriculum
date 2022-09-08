@@ -12,6 +12,7 @@
 - [Week 3 - 🧙‍♀️ Building Decentralized Apps](#week-3---%EF%B8%8F-building-decentralized-apps)
 - [Week 4 - 🚢  Build Your Own Project](#week-4-----build-your-own-project)
 - [Next Steps!](#next-steps)
+
 ---
 
 [![web2toweb3](https://user-images.githubusercontent.com/2653167/189006729-2de9f137-997a-4753-a66b-1652a213a7fe.png)](https://www.youtube.com/playlist?list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69)
@@ -39,9 +40,9 @@ You should start by getting hands-on & using the tools which will give you a muc
 
 ### Week 2 - 👩‍🚀 Scripting and Smart Contracts
 
-In this section we'll **start programming!** 
+In this section, we'll **start programming!** 
 
-It goes from writing scripts to talk to the blockchain to building Decentrazlized Applications(dApps). The topics covered included Providers, Signers, ethers.js, hardhat, scaffold-eth and many more! Follow the notes [here.](https://github.com/austintgriffith/web2-to-web3-curriculum/blob/main/week1/week-1-notes.md)
+It goes from writing scripts, talking to the blockchain, and building Decentralized Applications(dApps). The topics covered included Providers, Signers, ethers.js, hardhat, scaffold-eth and many more! Follow the notes [here.](https://github.com/austintgriffith/web2-to-web3-curriculum/blob/main/week1/week-1-notes.md)
 
 - **Day 1**: [Providers, Signers, Wallets & Scripting with ethers.js](https://youtu.be/m2AJAcWk394)
    
@@ -75,21 +76,21 @@ SpeedRunEthereum is a set of challenges for developers to get building with Ethe
 
 ### Week 4 - 🚢  Build Your Own Project 
 
-Now its your turn to **create your own project!** 
+Now it's your turn to **create your project!** 
 
-It's all about building forkable components with Scaffold-ETH. You can make a new voting system component, work on the open issues, make a new challenge for SpeedRunEthereum, etc. Just make sure to have a well written README so that anyone can easily set it up. Create your project & upload it to your BuidlGuidl Profile! 
+It's all about building forkable components with Scaffold-ETH. You can make a new voting system component, work on the open issues, make a new challenge for SpeedRunEthereum, etc. Make sure to have a well-written README so anyone can easily set it up. Then, create your project & upload it to your BuidlGuidl Profile! 
 
-There's a lot you can build and you can collaborate with other builders in the ecosystem! That's where BuildGuild comes in! BuidlGuidl is a group of builders that build tools with Scaffold-ETH, meet and learn together, and get funded for contributing. The goal is to empower builders for creating prototypes, projects and resources for the Ethereum ecosystem. 🌟 After building forkable Scaffold-ETH components, submitting them to your builder profile, and being active in the BuidlGuidl Telegram groups, you can get the opportunity to join BuidlGuidl!
+There's a lot you can build & collaborate with other builders in the ecosystem! That's where BuildGuild comes in! BuidlGuidl is a group of builders that build tools with Scaffold-ETH, meet and learn together, and get funded for contributing. The goal is to empower builders to create prototypes, projects and resources for the Ethereum ecosystem. 🌟 After building forkable Scaffold-ETH components, submitting them to your builder profile, and being active in the BuidlGuidl Telegram groups, you can get the opportunity to join BuidlGuidl!
 
 ---
 
 ### Next Steps!
 
-**Congrats!!** Now its time to move to the next stages! There are many different pathways to continue with the skills you've gained through the weeks. Here are some options:
+**Congrats!!** Now it's time to move to the next stages! There are many different pathways to continue with the skills you've gained through the weeks. Here are some options:
 
 - **Start Working in a web3 company:** Get hired as a junior with your Speed Run portfolio. Build things and show them off on Twitter!  ([Here](https://twitter.com/austingriffith/status/1478760479275175940?s=20&t=0zGF8M_7Hoeuy-D6LDoFpA) is a great "next steps" thread)
 
-- **Build your own tools:** Build your own product or start building forkable examples and tutorials for the ecosystem 
-(Go learn something and then leave the camp site better than you found it. Help the next dev learn what you learned, but easier.) 
+- **Build your own tools:** Build your product or start building forkable examples and tutorials for the ecosystem 
+(Learn something and leave the campsite better than you found it. Help the next dev learn what you learned, but easier.) 
 
-- **Continue learning more advanced concepts:** Go crush some of the harder challenges like the [Ethernaut](https://ethernaut.openzeppelin.com/), read through previous audits, start auditing yolos from the BG, get introduced to audit firms and folks within our network that are at the cutting edge with solidity auditing...
+- **Continue learning more advanced concepts:** Crush some of the more complex challenges like the [Ethernaut](https://ethernaut.openzeppelin.com/), read through previous audits, start auditing yolos from the BG, get introduced to audit firms and folks within our network that are at the cutting edge with solidity auditing...
