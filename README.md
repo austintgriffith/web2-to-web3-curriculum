@@ -14,6 +14,8 @@
 - [Next Steps!](#next-steps)
 ---
 
+[![web2toweb3](https://user-images.githubusercontent.com/2653167/189006729-2de9f137-997a-4753-a66b-1652a213a7fe.png)](https://www.youtube.com/playlist?list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69)
+
 🎥 [ watch the full playlist ](https://www.youtube.com/playlist?list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69)
 
 ---
