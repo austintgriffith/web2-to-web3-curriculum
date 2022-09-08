@@ -13,8 +13,8 @@ As a user, it all starts with a [crypto wallet](https://www.coinbase.com/learn/c
 
 There are Custodial Wallets vs Non-Custodial Wallets.
 
-- ** Custodial Wallets** : A third-party (generally an exchange such as Coinbase, Binance, or Robinhood) has your private keys and signs transactions on your behalf. You trust the third party to hold your keys and give them your information.
-- ** Non-Custodial Wallets** : The user owns the private keys; there is no third party in between. Therefore, the user is the only person with the private key and/or seed phrase; no one else should have this information. 
+- **Custodial Wallets** : A third-party (generally an exchange such as Coinbase, Binance, or Robinhood) has your private keys and signs transactions on your behalf. You trust the third party to hold your keys and give them your information.
+- **Non-Custodial Wallets** : The user owns the private keys; there is no third party in between. Therefore, the user is the only person with the private key and/or seed phrase; no one else should have this information. 
 
 On a custodial wallet, you have limited functionality. You can do what the platform allows you to do, mainly to buy and sell coins/tokens. However, when you want to play a crypto game, this is generally not possible.
 
@@ -51,26 +51,35 @@ On Ethereum, gas fees are paid in ETH and denoted in gwei.
 
 #### Decentralized App(dApp) 
 
-A dApp is just like any software application- any website or phone app. The difference is that the backend code runs on a decentralized network such as a peer to peer network or a blockchain. So an application on Ethereum is a dApp.
+A dApp is just like any software application- any website or phone app. The difference is that the backend code runs on a decentralized network such as a peer-to-peer network or a blockchain. So an application on Ethereum is a dApp.
 
 We'll use our wallet to interfere with web3 services. Our identity & inventory will follow you from app to app. 
 
 #### ENS 
 
-The wallet address is a 42-character hexadecimal address. This is very hard to remember. That's where ENS comes in. [Etherum Name Service (ENS)](https://docs.ens.domains/) is a lookup service built on the Ethereum. It's like Domain Name Service(DNS) in the Ethereum world. Just as DNS takes the IP address and maps it to a human-readable domain name, ENS takes the crypto address and maps it to a human-readable string. 
+The wallet address is a 42-character hexadecimal address. Unfortunately, this is very hard to remember for humans. 
+
+That's where [Ethereum Name Service (ENS)](https://ens.domains/) comes in. It's a lookup service built on Ethereum. It's like Domain Name Service(DNS) in the Ethereum world. A DNS takes the IP address and maps it to a human-readable domain name; ENS takes the crypto address and maps it to a human-readable string.
+
+When you want to receive money into your account, you can send your ENS name instead of sending that complicated and long address. "name.eth" for example, I can send someone this, and they can send me coins/tokens on Ethereum. This provides a basic form of identity. 
+
+You can head over to get yourself an ENS from the [app](https://app.ens.domains/). It's also possible to do a search of an ENS on Etherscan and see the transactions. 
 
 #### Decentrazlized Exchange & Centralized Exchange 
 
-- Centralized Exchange: An exchange thats owned by one entity. They allow you to buy and sell crypto currencies. 
-- Decentralized Exchange: An exchange that allows for peer-to-peer cryptocurrency transactions. There are no intermediaries but instead its based on smart contracts. 
+- **Centralized Exchange:** An exchange that's owned by one entity. They allow you to buy and sell cryptocurrencies. Coinbase, Binance, and Robinhood are popular examples of Centralized Exchange platforms. 
+- **Decentralized Exchange:** An exchange that allows for peer-to-peer cryptocurrency transactions. There are no intermediaries. Instead, it's based on smart contracts. [Uniswap](https://uniswap.org/) is a Decentralized Exchange on the Ethereum Blockchain. It is one of the most popular platforms to trade cryptocurrencies. 
 
-[Uniswap](https://uniswap.org/) is a Decentralized Exchange on the Ethereum Blockchain. 
+It's also important to note the difference between coin and token.
+- A **coin** exists on its own blockchain. It is a digital representation of money for that blockchain. BTC, ETH or SOL are cryptocurrency coins; they each have their own blockchain.
+- A **token** functions on top of an existing blockchain via smart contracts. NFTs are a type of tokens. 
+Basically, coins have their own blockchain and are used as a medium of exchange, whereas tokens live on top of a blockchain and can have different values or utilities.
 
 #### ERC 20
 
-ERC-20 is a standard for smart contracts that create fungible tokens on the Ethereum blockchain. ERC stands "Ethereum request for comment" and 20 is the token identifier. 
+**ERC-20** is a standard for smart contracts that create fungible tokens on the Ethereum blockchain. ERC stands for "Ethereum request for comment", and 20 is the token identifier. 
 
-DAI is an ERC20 token thats a stablecoin. You can read on how DAI works [here](https://docs.makerdao.com/getting-started/maker-protocol-101)
+DAI is an ERC20 token that's a stablecoin. You can read how DAI works [here](https://docs.makerdao.com/getting-started/maker-protocol-101)
 
 There are more ERC smart contracts. For example, the standard for creating a non-fungible token(NFT) is ERC-721.
 
@@ -88,28 +97,46 @@ There are more ERC smart contracts. For example, the standard for creating a non
 
 #### NFT
 
-NFT stands for Non-Fungible Token.
-* Non-fungible: Non-fungible refers to goods that have unique properties and can not be changed with one another. 
-* Token: Token is a digital asset living on top of the blockchain.
+NFT stands for Non-fungible token, let's unpack what this actually means: 
+- **Non-fungible**: Goods that have unique properties can not be changed with one another. For example, bitcoin is a fungible asset. If we each have a bitcoin and send them to each other, we'll have the same thing in the end. On the other hand, a house is non-fungible. If we decide to switch homes, we'll end up with something different.
+- **Token**: In short, a blockchain is a shared and immutable ledger, and a token is a digital asset living on top of the blockchain.
 
-NFT's are unique digital assets on the blockchain. They are each one of a kind; this allows for tracking the ownership. NFT's are created by running the code on the smart contract. This process is also called "minting."
+NFTs are unique digital assets on the blockchain. Any digital asset can be an NFT; the most popular types are Collectibles and Art. We also see Writing NFTs and Music NFTs. 
 
-ERC-721 is a standard type of smart contract that creates NFTs on Ethereum. Here's a sample NFT which you can find over [here.](https://github.com/carletex/sanford-stout-nft)
+- Art is self-explanatory. Artists have the chance to create their work on the blockchain and can directly reach their buyers. 
+- Collectibles, as the name indicates, are a collection of assets in the format of an NFT.
+Think of these as Pokemon cards or even penny collections.
 
-[Opensea](https://opensea.io/) is an NFT Marketplace where users can buy/sell NFTs. 
+Other use cases for NFT's include domain names, gaming, music, ticketing... (There can be many more applications which we have not even discovered yet.)
+
+NFT's are created by running the code on the smart contract. This process is also called **"minting."**
+
+[ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) is a standard type of smart contract that creates non-fungible tokens on Ethereum. The way each token is globally unique is with the tokenId field. Therefore, for every smart contract that creates an NFT, the smart contract and the tokenId pair is different.
+
+[Here's](https://github.com/carletex/sanford-stout-nft) a sample NFT which contract. 
+
+The most popular NFT platform is [OpenSea](https://opensea.io/). Others are [Foundation](https://foundation.app/) and [Zora](https://zora.co/). 
   
 #### Storage Types 
 
-In the NFT smart contract we define where the metadata of the NFT is located. There are different ways to store the data in the NFT. Basically, there is a seperate storage layer that holds the content. 
+In the NFT smart contract, we define where the metadata of the NFT will be stored. There are different ways to store the data of the NFT. 
 
 [IPFS](https://ipfs.io/) stands for InterPlanetary File System. It is a distributed system for storing and accessing files, websites, applications, and data.
 
-SVG stands for Scalable Vector Graphics, it renders the content in the smart contract. Having the content on the smart contract allows to make things that are more composable.
+SVG stands for Scalable Vector Graphics; it renders the content in the smart contract. Having the content on the smart contract allows for making more composable items.
 
 There are also centralized storage options to store the data and the images. 
 
+#### Track your wallet
+
+With your wallet address, you can **track all that you own.** For example, let's say you have NFTs and others tokens in your wallet, staked some tokens on various platforms. Since it's all on the public blockchain, you can see all these in a central place. 
+
+[Zapper.fi](https://zapper.fi/) is a platform that allows you to do this. So, you can easily track your wallet(s). 
+
+You can also see what you own on [Etherscan](https://etherscan.io/), but you will not be able to see the NFT images, and the UI is focused on showing transactions rather than the assets. 
+
 ### 🥅 Goals 
-- [ ] Mint an NFT from Etherscan??? **to do: rinkeby??** 
+- [ ] Mint an NFT from Etherscan
 - [ ] Have a look at NFT marketplace(s) 
 - [ ] Check out your inventory on Zapper.fi 
 
@@ -124,7 +151,7 @@ There are also centralized storage options to store the data and the images.
 
 You are able to edit the gas fee on Metamask: gas limit, max priority fee, max fee(gwei)
 
-In Ethereum, every transaction has a nonce. Nounce is an abbreviation for “number used once." Each time you make a transaction the nonce increases by 1. The transactions must be executed in order, and the order is determinded by the nounce. This prevents the double-spend problem.  
+In Ethereum, every transaction has a nonce. Nounce is an abbreviation for “number used once." Each time you make a transaction the nonce increases by 1. The transactions must be executed in order, and the order is determinded by the nounce. This prevents the double-spend problem. 
 
 #### Layer 2
 
@@ -150,9 +177,10 @@ A Multisignature(multisig) is a smart contract wallet that operates with 2 or mo
 
 [Gnosis Safe](https://gnosis-safe.io/) is a multisig on Ethereum. You can manage all your digital assets on a multisig wallet. 
 
-### 🥅 Goals TODO
+### 🥅 Goals 
 - [ ] Bridge some tokens to Optimisim 
 - [ ] Setup a multi-sig wallet
+- [ ] Stake some tokens on Aave
 
 **Deliverables**
 - [ ] Submit your transactions of Gnosis-safe 
