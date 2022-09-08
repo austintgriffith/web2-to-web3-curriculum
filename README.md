@@ -14,6 +14,9 @@
 - [Next Steps!](#next-steps)
 ---
 
+🎥 [ watch the full playlist ](https://www.youtube.com/playlist?list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69)
+
+---
 ### Week 1 - 👩‍🔬 Becoming A Power User
 
 The first step to starting as a developer in the web3 ecosystem is first to become a Power User!
