@@ -1,38 +1,37 @@
 ## 👩‍🔬 Becoming A Power User 
 
-The first step to starting out as a developer in the web3 ecosytem is to first become a Power User! You should start by getting hands-on & using the tools which will give you a much greater understanding of what you can do and what the crypto space is all about. In this section we're talking about the tools in the crypto space, using them and helping you become an Ethereum power user.
+The first step to starting as a developer in the web3 ecosystem is first to become a Power User! You should begin by getting hands-on & using the tools which will give you a much greater understanding of what you can do and what the crypto space is all about. In this section, we're talking about the tools in the crypto space, using them and helping you become an Ethereum power user.
 
 ## Day 2: Wallets
 
 #### Crypto Wallets
 
-A **crypto wallet** is what allows you to talk to the blockchain network. It gives you the tools you need to interact with cryptocurrencies. Examples of cryptocurrency wallets are Metamask, Ledger, Rainbow.
+As a user, it all starts with a [crypto wallet](https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet), which is what allows you to talk to the blockchain. It gives you the tools you need to interact with cryptocurrencies. A crypto wallet generates a private & public key. A crypto wallet's main functionality is storing the keys and signing transactions.
 
-A crypto wallet generates a private key and a public key. The main functionality of a crypto wallet is to store your keys and sign transactions. 
+- 🔓 A **public key**, as the name indicates, is public. If you give someone your public address, they can send you cryptocurrencies.
+- 🔐 A **private key** is like your password. You should keep it safe and NEVER share it with anyone. Anyone with your private key has full access to your wallet. It's hard to remember and store this number; that's where seed phrases come in. It's a phrase generated from the private key that's human-readable and easier to store. 
 
--	A public key, as the name indicates is public. If you give your public address or associated crypto addresses, then people can send you cryptocurrencies. 
--	🔐 A private key is like your password. You should keep it safe and never share it with anyone. Anyone with your private key has full access to your wallet. 
-Its just 256 digit binary number. It’s hard to remember and store this number, thats where seed pharses come in. 
+There are Custodial Wallets vs Non-Custodial Wallets.
 
-A mnemonic (also known as a seed phrase) is a way to restore your private key. It's is a 12-word combination which can be used generate private keys. 
-Seed phrases creates a convienet way to save to restore your crypto wallet. 
+- ** Custodial Wallets** : A third-party (generally an exchange such as Coinbase, Binance, or Robinhood) has your private keys and signs transactions on your behalf. You trust the third party to hold your keys and give them your information.
+- ** Non-Custodial Wallets** : The user owns the private keys; there is no third party in between. Therefore, the user is the only person with the private key and/or seed phrase; no one else should have this information. 
 
-Note: do not share your seed phrase or private key with anyone! Whomever has access to these, has full access to your account.
+On a custodial wallet, you have limited functionality. You can do what the platform allows you to do, mainly to buy and sell coins/tokens. However, when you want to play a crypto game, this is generally not possible.
 
-Types of crypto wallets: **Custodial Wallets vs Non-Custodial Wallets**
+🌟 One of the most popular non-custodial crypto wallets is [Metamask](https://metamask.io/), head over to the website to set up your wallet. Another popular wallet is [Rainbow](https://rainbow.me/), that's a mobile wallet.  
 
--	Custodial Wallets: A third-party (generally an exchange such as Coinbase, Binance, Robinhood) has your private keys and signs transactions on your behalf. You trust the third party to hold the keys for you.
--	Non-Custodial Wallets: The user owns the private keys of the non-custodial wallet. Unlike a custodial wallet, there is no third party in between. Therefore, the user is the only person that has the private key and/or seed phrase. There is no customer servie for non- custodial wallets and no one should ask you seed phrase or private keys. 
+After you've set up Metamask, you can see your public address on the top. This is like your bank account number; it's a public account number you can share to receive funds. 
 
 #### Transactions 
 
 Everything you do on ethereum is a transaction. For example, 
 when you send some tokens from one account to another it will be addded to the ledger as a transaction. 
-[Etherscan](https://etherscan.io/) is a block explorer for Etherum which records all the transactions to display them in a easy way. 
+
+[Etherscan](https://etherscan.io/) is a block explorer for Ethereum, which records all the transactions and display them in an easy way.
 
 #### Gas Fees 
 
-Every transaction on the blockchain has a cost. So when you want to send tokens you need to pay the price called **gas fee**. Gas is the measure of the unit to denote the cost for a transaction. Accordingly, gas fees are the fees that are paid to the network to process the transactions.
+There will be a transaction fee associated with making the transfer. This is called a [Gas Fee.](https://ethereum.org/en/developers/docs/gas/) Every transaction on the blockchain has a cost. So when you want to send tokens, you need to pay the price called the gas fee. Gas is the unit's measure to denote the transaction cost. 
 
 On Ethereum, gas fees are paid in ETH and denoted in gwei. 
 
