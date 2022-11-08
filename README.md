@@ -70,7 +70,7 @@ SpeedRunEthereum is a set of challenges for developers to get building with Ethe
 
 - **Day 4**: [SpeedRunEthereum.com - Challenge 3 -  Dice Game](https://youtu.be/IMEmwxTDnBw)
 
-- **Day 5**: [SpeedRunEthereum.com - Next Challenges: ⚖️DEX + 👛 Multisig + 🎫 SVG NFT](https://youtu.be/IMEmwxTDnBw)
+- **Day 5**: [SpeedRunEthereum.com - Next Challenges: ⚖️DEX + 👛 Multisig + 🎫 SVG NFT](https://youtu.be/vWkkwVUuGog)
 
 ---
 
